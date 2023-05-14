@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*แนวตั้ง*/
+/*.icon-bar{
+    width: 90px;
+    background-color: #555;
+}
+.icon-bar a{
+    display: block;
+    text-align: center;
+    transition: all 0.3ms;
+    padding: 16px;
+    color: white;
+    font-size: 36px;
+}
+.icon-bar a:hover{
+    background-color: #000;
+}
+.active{
+    background-color: #04aa64;
+}*/
+
+/*=============================================================================================================*/
+
+/*แนวนอน*/
+.icon-bar{
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+.icon-bar a{
+    display: block;
+    width: 20%;
+    float: left;
+    text-align: center;
+    transition: all 0.3ms;
+    padding: 16px ;
+    color: white;
+    font-size: 36px;
+}
+.icon-bar a:hover{
+    background-color: #000;
+}
+.active{
+    background-color: #04aa64;
+}
