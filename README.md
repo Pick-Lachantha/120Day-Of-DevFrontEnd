@@ -3,4 +3,4 @@
 นี่คือการ Coding Challenge 120 วัน
 โดยเป็นการ ฝึกเขียน HTML, CSS, Javascript 
 เพื่อเป็นการฝึกฝนการเขียนโค๊ดพื้นฐาน ตามคัวอย่าง ใน 
-[Documentation]([https://linktodocumentation](https://www.w3schools.com/))
+[Documentation](https://www.w3schools.com/)
