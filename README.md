@@ -1,4 +1,5 @@
 # 120Day-Of-DevFrontEnd
 
-นี่คือการ Coding Challenge
-ฝึกเขียน HTML, CSS, Javascript
+นี่คือการ Coding Challenge 120 วัน
+โดยเป็นการ ฝึกเขียน HTML, CSS, Javascript 
+เพื่อเป็นการฝึกฝนการเขียนโค๊ดพื้นฐาน ตามคัวอย่าง ใน https://www.w3schools.com/
