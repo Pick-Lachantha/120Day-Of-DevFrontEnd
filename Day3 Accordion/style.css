@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Accardion{
+    background-color: #eee;
+    color: #444;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+.Accardion:hover, .active{
+    background-color: #bbb;
+}
+
+
+.panel{
+    padding: 18px;
+    background-color: white;
+    Display: none;
+    overflow: hidden;
+}
